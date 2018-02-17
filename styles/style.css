@@ -14,6 +14,7 @@ header {
 }
 header nav {
   padding-right: 40px;
+  z-index: 1;
 }
 .logo {
   display: flex;
@@ -21,6 +22,7 @@ header nav {
   flex-grow: 1;
   padding-left: 30px;
   border: 1px solid black;
+  z-index:1;
 }
 .logo .img {
   margin-right:12px;
@@ -43,16 +45,21 @@ header nav {
     border: 1px solid black;
     
   }
-
+  
   .stry2 {
     border: 1px solid black;
   }
-  
   .stry2footer {
+    border: 1px solid black;
+  }
+  .stry3 {
     border: 1px solid black;
   }
  .container .col2 {
    width: 300px;
+   border: 1px solid black;
+ }
+ .tstry1 h2 {
    border: 1px solid black;
  }
 
