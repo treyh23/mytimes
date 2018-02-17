@@ -29,4 +29,34 @@ header nav {
   color: mediumaquamarine;
 }
 
- 
+.container {
+  display: flex;
+  width: 1232px;
+  padding-top: 110px;
+  border: 2px solid black;
+}
+ .container .col1 {
+   width: 630px;
+   border: 1px solid black;
+  }
+  .stry1head {
+    border: 1px solid black;
+    
+  }
+
+  .stry2 {
+    border: 1px solid black;
+  }
+  
+  .stry2footer {
+    border: 1px solid black;
+  }
+ .container .col2 {
+   width: 300px;
+   border: 1px solid black;
+ }
+
+ .container .col3 {
+   width: 240px;
+   border: 1px solid black;
+ }
