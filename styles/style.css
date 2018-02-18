@@ -35,23 +35,19 @@ header nav {
   display: flex;
   width: 1232px;
   padding-top: 110px;
-  border: 2px solid black;
 }
  .container .col1 {
    width: 630px;
    border: 1px solid black;
   }
-  .stry1head {
+  .stryonehead {
     border: 1px solid black;
-    
   }
   
   .stry2 {
     border: 1px solid black;
   }
-  .stry2footer {
-    border: 1px solid black;
-  }
+  
   .stry3 {
     border: 1px solid black;
   }
